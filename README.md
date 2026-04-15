@@ -1,3 +1,12 @@
+## 👥 Hecho por
+
+| Nombre Completo | ID |
+|----------------|-----|
+| **Daniel Eduardo Agudelo Mendoza** | 1091868 |
+| **Samuel Aguilar Castiblanco** | 1084140 |
+| **Oscar Stiven Avila Nomesque** | 1045298 |
+
+*Proyecto desarrollado para el curso de Programación Orientada a Objetos*
 # 🚇 Sistema de Transporte "Tu Llave" - Bogotá
 
 ![Java](https://img.shields.io/badge/Java-21%2B-blue)
