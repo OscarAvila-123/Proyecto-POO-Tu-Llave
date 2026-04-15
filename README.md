@@ -31,3 +31,43 @@ El proyecto extiende un taller previo sobre herencia y polimorfismo, incorporand
 ---
 
 ## 🏗️ Estructura del Proyecto
+
+---
+
+## 📊 Diagrama de Clases
+
+---
+
+## 💻 Código Destacado
+
+### Clase Abstracta `Tarjeta`
+
+```java
+public abstract class Tarjeta {
+    private String idTarjeta;
+    private double saldo;
+    private String usuario;
+    
+    public abstract void recargar(double monto);
+    public abstract boolean pagarViaje();
+    
+    public void consultarSaldo() {
+        System.out.println("Saldo: $" + saldo);
+    }
+}
+=== SISTEMA TU LLAVE - DEMOSTRACIÓN ===
+
+--- Operaciones con Tarjetas ---
+Tarjeta: TP1001 | Usuario: Ana Gómez | Saldo: $0.0
+Recarga exitosa: +$10000.0
+Viaje pagado. Costo original: $2500.0 | Con descuento: $2250.0
+
+--- Servicios externos ---
+Uso de bici por 30 min. Costo original: $3000.0 | Con descuento: $2400.0
+Estadía de 3 hora(s). Costo original: $6000.0 | Con descuento: $4200.0
+
+--- Beneficios aplicados mediante interfaz ---
+TarjetaPersonalizada: $5000 → $4500 (10% descuento)
+TarjetaSubsidio:      $5000 → $2500 (50% subsidio)
+BiciPublica:          $5000 → $4000 (20% descuento)
+ParqueaderoPublico:   $5000 → $3500 (30% descuento)
