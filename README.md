@@ -2,8 +2,6 @@
 
 | Nombre Completo | ID |
 |----------------|-----|
-| **Daniel Eduardo Agudelo Mendoza** | 1091868 |
-| **Samuel Aguilar Castiblanco** | 1084140 |
 | **Oscar Stiven Avila Nomesque** | 1045298 |
 
 *Proyecto desarrollado para el curso de Programación Orientada a Objetos*
