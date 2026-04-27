@@ -5,7 +5,7 @@
 | **Oscar Stiven Avila Nomesque** | 1045298 |
 
 *Proyecto desarrollado para el curso de Programación Orientada a Objetos*
-# 🚇 Sistema de Transporte "Tu Llave" - Bogotá
+# 🚇 Sistema de Transporte "Herencia y Polimorfismo" - Bogotá
 
 ![Java](https://img.shields.io/badge/Java-21%2B-blue)
 ![POO](https://img.shields.io/badge/POO-Abstract%20Classes%20%7C%20Interfaces-green)
@@ -13,7 +13,7 @@
 
 ## 📖 Descripción del Proyecto
 
-Este proyecto simula el sistema de tarjetas inteligentes **"Tu Llave"**, utilizado en la red de transporte público de Bogotá (SITP - Sistema Integrado de Transporte Público). El objetivo es demostrar la aplicación de los principios fundamentales de la **Programación Orientada a Objetos (POO)**:
+Este proyecto simula el sistema de tarjetas inteligentes, utilizado en la red de transporte público de Bogotá. El objetivo es demostrar la aplicación de los principios fundamentales de la **Programación Orientada a Objetos (POO)**:
 
 - **Abstracción**
 - **Encapsulamiento**
